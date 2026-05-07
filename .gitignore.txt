@@ -1,0 +1,16 @@
+echo # Python > .gitignore
+echo __pycache__/ >> .gitignore
+echo *.py[cod] >> .gitignore
+echo .venv/ >> .gitignore
+echo venv/ >> .gitignore
+echo *.egg-info/ >> .gitignore
+echo. >> .gitignore
+echo # Data and models >> .gitignore
+echo data/ >> .gitignore
+echo models/ >> .gitignore
+echo *.pt >> .gitignore
+echo *.mp4 >> .gitignore
+echo. >> .gitignore
+echo # IDE >> .gitignore
+echo .vscode/ >> .gitignore
+echo .idea/ >> .gitignore
