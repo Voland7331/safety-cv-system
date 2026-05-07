@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Data and models (управляются через DVC)
+data/
+models/
+*.pt
+*.mp4
+
+# IDE
+.vscode/
+.idea/
