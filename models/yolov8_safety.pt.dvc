@@ -1,0 +1,5 @@
+outs:
+- md5: 8ee37acc08de82862b90d355ec51e90e
+  size: 28
+  hash: md5
+  path: yolov8_safety.pt
